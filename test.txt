@@ -1,1 +1,13 @@
-test data 1
+git clone <url>
+
+git checkout -b <branchname>
+
+git pull
+
+git fetch
+
+git add .
+
+git commit -m "<commit message>"
+
+git push
